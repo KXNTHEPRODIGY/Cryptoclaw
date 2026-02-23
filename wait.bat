@@ -1,0 +1,3 @@
+@echo off
+echo waiting for 10 seconds...
+timeout /t 10 /nobreak

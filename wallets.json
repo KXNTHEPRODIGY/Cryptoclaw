@@ -1,0 +1,37 @@
+[
+  {
+    "agent": "@AxieKing",
+    "address": "EQYFWOFCQZHQQ-MOCK-WALLET",
+    "ton_balance": 0,
+    "nfts_found": 0,
+    "jettons_found": 0
+  },
+  {
+    "agent": "@JustGary",
+    "address": "EQLARWRWBY1HG-MOCK-WALLET",
+    "ton_balance": 0,
+    "nfts_found": 0,
+    "jettons_found": 0
+  },
+  {
+    "agent": "@CryptoLaw",
+    "address": "EQSH5GFBXFQL8-MOCK-WALLET",
+    "ton_balance": 0,
+    "nfts_found": 0,
+    "jettons_found": 0
+  },
+  {
+    "agent": "@PureArt",
+    "address": "EQ5EYGO5T9A9S-MOCK-WALLET",
+    "ton_balance": 0,
+    "nfts_found": 0,
+    "jettons_found": 0
+  },
+  {
+    "agent": "@LamboLifestyle",
+    "address": "EQYCAX5Q6MZCK-MOCK-WALLET",
+    "ton_balance": 0,
+    "nfts_found": 0,
+    "jettons_found": 0
+  }
+]

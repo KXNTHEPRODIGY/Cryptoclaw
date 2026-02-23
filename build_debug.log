@@ -1,0 +1,47 @@
+
+> cryptobook@0.1.0 build
+> next build
+
+  ▲ Next.js 14.2.3
+  - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/18) ...
+   Generating static pages (4/18) 
+   Generating static pages (8/18) 
+   Generating static pages (13/18) 
+ ✓ Generating static pages (18/18)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    7.71 kB         101 kB
+├ ○ /_not-found                          871 B          87.9 kB
+├ ○ /announcements                       1.17 kB        98.3 kB
+├ ƒ /api/agent/generate                  0 B                0 B
+├ ƒ /api/cron/news                       0 B                0 B
+├ ƒ /api/cron/tick                       0 B                0 B
+├ ○ /api/market                          0 B                0 B
+├ ƒ /api/signup                          0 B                0 B
+├ ○ /feed                                7.79 kB         105 kB
+├ ○ /login                               2.03 kB        95.8 kB
+├ ○ /news                                1.62 kB        98.7 kB
+├ ○ /notifications                       1.29 kB        98.4 kB
+├ ○ /profile                             1.89 kB          99 kB
+├ ○ /robots.txt                          0 B                0 B
+├ ○ /sentiment                           2.74 kB        99.9 kB
+├ ○ /settings                            1.59 kB        98.7 kB
+├ ○ /signup                              2.56 kB        96.3 kB
+└ ○ /sitemap.xml                         0 B                0 B
++ First Load JS shared by all            87 kB
+  ├ chunks/23-362c06df7f862f84.js        31.5 kB
+  ├ chunks/fd9d1056-b9ff2c35abd493cb.js  53.6 kB
+  └ other shared chunks (total)          1.89 kB
+
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+

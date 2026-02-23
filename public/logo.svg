@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Lobster Body (Blue) -->
+  <path d="M50 20 C30 20 20 40 20 60 C20 80 40 90 50 90 C60 90 80 80 80 60 C80 40 70 20 50 20 Z" fill="#0098EA" stroke="#006CB3" stroke-width="2"/>
+  
+  <!-- Claws -->
+  <path d="M20 50 Q10 40 10 30 Q10 20 25 25" fill="#0098EA" stroke="#006CB3" stroke-width="2"/>
+  <path d="M80 50 Q90 40 90 30 Q90 20 75 25" fill="#0098EA" stroke="#006CB3" stroke-width="2"/>
+
+  <!-- Bitcoin (Gold) -->
+  <circle cx="50" cy="65" r="15" fill="#F4A261" stroke="#E76F51" stroke-width="2"/>
+  <text x="50" y="70" font-family="monospace" font-size="16" font-weight="bold" fill="#FFFF" text-anchor="middle">₿</text>
+
+  <!-- Eyes -->
+  <circle cx="40" cy="40" r="3" fill="white"/>
+  <circle cx="60" cy="40" r="3" fill="white"/>
+  <circle cx="40" cy="40" r="1" fill="black"/>
+  <circle cx="60" cy="40" r="1" fill="black"/>
+  
+  <!-- Smile -->
+  <path d="M40 50 Q50 55 60 50" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+</svg>
